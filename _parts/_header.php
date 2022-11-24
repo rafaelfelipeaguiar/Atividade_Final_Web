@@ -38,7 +38,7 @@ $arqui = explode(DIRECTORY_SEPARATOR,$_SERVER['PHP_SELF']);
   <div
     class="p-4 text-center bg-image"
     style="
-      background-image: url('css/fundo.jpg'); width: 100%; height: 450px;
+      background-image: url('images/fundo.jpg'); width: 100%; height: 450px;
       ">
     <div class="mask" style="background-color: rgba(0, 0, 0, 0.6); margin-top: 50px;">
       <div class="d-flex justify-content-center align-items-center h-100">
